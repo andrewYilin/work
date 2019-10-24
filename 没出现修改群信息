@@ -1,0 +1,72 @@
+2019-10-09 21:04:05.248 6192-6192/com.example.elmliu.uniport I/ViewRootImpl: jank_removeInvalidNode all the node in jank list is out of time
+2019-10-09 21:04:05.249 6192-6192/com.example.elmliu.uniport D/ZrHung.AppEyeUiProbe: stop checker.
+2019-10-09 21:04:05.256 6192-6192/com.example.elmliu.uniport W/ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@6c78e4f
+2019-10-09 21:04:05.256 6192-6192/com.example.elmliu.uniport D/ZrHung.AppEyeUiProbe: notify runnable to start.
+2019-10-09 21:04:05.269 6192-6192/com.example.elmliu.uniport I/HwPhoneWindow: updateLayoutParamsColor false mSpecialSet=false, mForcedNavigationBarColor=false, navigationBarColor=0, mNavBarShow=false, mIsFloating=false
+2019-10-09 21:04:05.269 6192-6192/com.example.elmliu.uniport I/HwPhoneWindow: updateLayoutParamsColor true mSpecialSet=false, mForcedNavigationBarColor=false, navigationBarColor=ff000000, mNavBarShow=false, mIsFloating=false
+2019-10-09 21:04:05.272 6192-6192/com.example.elmliu.uniport I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.272 6192-6192/com.example.elmliu.uniport I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.272 6192-6192/com.example.elmliu.uniport D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.272 6192-6192/com.example.elmliu.uniport D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2019-10-09 21:04:05.273 6192-6192/com.example.elmliu.uniport D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@e74ba99,com.example.elmliu.uniport.activity.functional.settings.SettingsGroup@fecb7c8
+2019-10-09 21:04:05.273 6192-6192/com.example.elmliu.uniport D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2019-10-09 21:04:05.273 6192-6192/com.example.elmliu.uniport I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.273 6192-6192/com.example.elmliu.uniport I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.273 6192-6192/com.example.elmliu.uniport D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.273 6192-6192/com.example.elmliu.uniport D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2019-10-09 21:04:05.273 6192-6192/com.example.elmliu.uniport D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@24d6755,com.example.elmliu.uniport.activity.functional.settings.SettingsGroup@fecb7c8
+2019-10-09 21:04:05.273 6192-6192/com.example.elmliu.uniport D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2019-10-09 21:04:05.298 6192-6192/com.example.elmliu.uniport I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.298 6192-6192/com.example.elmliu.uniport I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.298 6192-6192/com.example.elmliu.uniport D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.298 6192-6192/com.example.elmliu.uniport D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2019-10-09 21:04:05.298 6192-6192/com.example.elmliu.uniport D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@57c2c0d,com.example.elmliu.uniport.activity.functional.settings.SettingsGroup@fecb7c8
+2019-10-09 21:04:05.298 6192-6192/com.example.elmliu.uniport D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2019-10-09 21:04:05.298 6192-6192/com.example.elmliu.uniport I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.298 6192-6192/com.example.elmliu.uniport I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.298 6192-6192/com.example.elmliu.uniport D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.298 6192-6192/com.example.elmliu.uniport D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2019-10-09 21:04:05.298 6192-6192/com.example.elmliu.uniport D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@bcc7c09,com.example.elmliu.uniport.activity.functional.settings.SettingsGroup@fecb7c8
+2019-10-09 21:04:05.298 6192-6192/com.example.elmliu.uniport D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2019-10-09 21:04:05.302 6192-6192/com.example.elmliu.uniport I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.302 6192-6192/com.example.elmliu.uniport I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.302 6192-6192/com.example.elmliu.uniport D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.302 6192-6192/com.example.elmliu.uniport D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2019-10-09 21:04:05.302 6192-6192/com.example.elmliu.uniport D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@a13763c,com.example.elmliu.uniport.activity.functional.settings.SettingsGroup@fecb7c8
+2019-10-09 21:04:05.302 6192-6192/com.example.elmliu.uniport D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2019-10-09 21:04:05.302 6192-6192/com.example.elmliu.uniport I/FLTAG_FM: loadFeature class:com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.302 6192-6192/com.example.elmliu.uniport I/FLTAG_SFM: getRequireClassLoader() succ ! className: com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.302 6192-6192/com.example.elmliu.uniport D/FeatureFactory: loadFeature() : com.huawei.featurelayer.systemfeature.HwWidget.IHwSplineOverScrollerEx
+2019-10-09 21:04:05.302 6192-6192/com.example.elmliu.uniport D/FeatureFactory: loadFeature() new IHwSplineOverScrollerEx()
+2019-10-09 21:04:05.302 6192-6192/com.example.elmliu.uniport D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl paras: android.widget.OverScroller$SplineOverScroller@4efad1a,com.example.elmliu.uniport.activity.functional.settings.SettingsGroup@fecb7c8
+2019-10-09 21:04:05.302 6192-6192/com.example.elmliu.uniport D/HwSplineOverScrollerExImpl: initSplineOverScrollerImpl: mScrollerVelocity is 0, value is 0
+2019-10-09 21:04:05.330 6192-6192/com.example.elmliu.uniport I/HwPhoneWindow: updateLayoutParamsColor true mSpecialSet=false, mForcedNavigationBarColor=false, navigationBarColor=ff000000, mNavBarShow=false, mIsFloating=false
+2019-10-09 21:04:05.345 6192-6192/com.example.elmliu.uniport W/Glide: Load failed for null with size [-1x-1]
+    class com.bumptech.glide.load.engine.GlideException: Received null model
+2019-10-09 21:04:05.346 6192-6192/com.example.elmliu.uniport D/===AVOS Cloud===: LogUtil$avlog->d->43: curl -X POST  -H "X-LC-Id: cvKrEbRV55FItUPuHiGlotiv-gzGzoHsz" -H "X-LC-Key: YourAppKey"  -H "Content-Type: application/json"   -d '{"groupId":"5d9dd9c243e78c0067644103"}' http://lcapi.elmliu.cn/1.1/functions/queryGroupMembers
+2019-10-09 21:04:05.349 6192-6192/com.example.elmliu.uniport D/ActivityThread: add activity client record, r= ActivityRecord{30144a0 token=android.os.BinderProxy@6c78e4f {com.example.elmliu.uniport/com.example.elmliu.uniport.activity.functional.settings.SettingsGroup}} token= android.os.BinderProxy@6c78e4f
+2019-10-09 21:04:05.351 6192-6192/com.example.elmliu.uniport W/Glide: Load failed for null with size [-1x-1]
+    class com.bumptech.glide.load.engine.GlideException: Received null model
+2019-10-09 21:04:05.352 6192-6192/com.example.elmliu.uniport D/ZrHung.AppEyeUiProbe: notify runnable to start.
+2019-10-09 21:04:05.356 6192-6443/com.example.elmliu.uniport D/OpenGLRenderer:   HWUI Binary is  enabled
+2019-10-09 21:04:05.356 6192-6443/com.example.elmliu.uniport D/OpenGLRenderer: disableOutlineDraw is true
+2019-10-09 21:04:05.367 6192-9842/com.example.elmliu.uniport I/HiTouch_HiTouchSensor: enabledInPad = false,isPcCastMode = false
+2019-10-09 21:04:05.368 6192-9842/com.example.elmliu.uniport D/HiTouch_PressGestureDetector: onAttached, package=com.example.elmliu.uniport, windowType=1, mHiTouchRestricted=false
+2019-10-09 21:04:05.370 6192-6192/com.example.elmliu.uniport W/Glide: Load failed for null with size [-1x-1]
+    class com.bumptech.glide.load.engine.GlideException: Received null model
+2019-10-09 21:04:05.373 6192-6192/com.example.elmliu.uniport W/Glide: Load failed for null with size [0x0]
+    class com.bumptech.glide.load.engine.GlideException: Received null model
+2019-10-09 21:04:05.387 6192-6443/com.example.elmliu.uniport D/mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+2019-10-09 21:04:05.396 6192-6443/com.example.elmliu.uniport D/OpenGLRenderer:   HWUI Binary is  enabled
+2019-10-09 21:04:05.396 6192-6443/com.example.elmliu.uniport D/OpenGLRenderer: disableOutlineDraw is true
+2019-10-09 21:04:05.424 6192-6192/com.example.elmliu.uniport W/InputMethodManager: startInputReason = 1
+2019-10-09 21:04:05.594 6192-9841/com.example.elmliu.uniport D/===AVOS Cloud===: LogUtil$avlog->d->43: {"result":"[{\"gender\":\"M\",\"school\":{\"name\":\"北京大学\",\"id\":\"5cbace1ca91c9377aa7ebbd6\",\"provinceName\":\"北京市\"},\"roles\":[],\"id\":\"5d95f01030863b0068b2bf7c\",\"installationId\":\"174c2362a7f658970fcb4e0589a5f55e\",\"department\":{\"id\":\"5d5ab86deaa37500688e2a94\"},\"username\":\"Naruto\"},{\"gender\":\"M\",\"school\":{\"name\":\"北京大学\",\"id\":\"5cbace1ca91c9377aa7ebbd6\",\"provinceName\":\"北京市\"},\"roles\":[],\"id\":\"5d95f064a3180b0068df4a94\",\"installationId\":\"1f986926fd43a15027a45acb9e7f9c31\",\"department\":{\"id\":\"5d5ab86deaa37500688e2a94\"},\"username\":\"Zoro\"},{\"gender\":\"M\",\"school\":{\"name\":\"山东大学(威海)\",\"id\":\"5cbace30c8959c0075f8bf91\",\"provinceName\":\"山东省\"},\"roles\":[],\"id\":\"5d905cc3f884af0068247eb2\",\"installationId\":\"ccf18e9ebfd97728edae366c11ad0ab4\",\"department\":{\"id\":\"5d5ab87512215f0073879cb0\"},\"username\":\"jkjk\"}]"}
+2019-10-09 21:04:05.602 6192-6192/com.example.elmliu.uniport W/Glide: Load failed for null with size [-1x-1]
+    class com.bumptech.glide.load.engine.GlideException: Received null model
+2019-10-09 21:04:05.603 6192-6192/com.example.elmliu.uniport W/Glide: Load failed for null with size [0x0]
+    class com.bumptech.glide.load.engine.GlideException: Received null model
+2019-10-09 21:04:05.603 6192-6192/com.example.elmliu.uniport W/Glide: Load failed for null with size [0x0]
+    class com.bumptech.glide.load.engine.GlideException: Received null model
+2019-10-09 21:04:05.636 6192-6443/com.example.elmliu.uniport W/libEGL: EGLNativeWindowType 0x7ce2ca8010 disconnect failed
+2019-10-09 21:04:05.636 6192-6443/com.example.elmliu.uniport D/OpenGLRenderer: endAllActiveAnimators on 0x7cd79e3700 (RippleDrawable) with handle 0x7ce57cf800
+2019-10-09 21:04:05.640 6192-6192/com.example.elmliu.uniport D/ViewRootImpl[ChatGroup]: surface should not be released
